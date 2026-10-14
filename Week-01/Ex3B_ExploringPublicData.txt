@@ -1,0 +1,15 @@
+1. This seems to be a government data base that is open source. 
+
+2. 584,023.
+
+3. These Categories are titled Human Health because they all pertain to our physical health or a source leading to our physical health.
+
+4. You are able to find more datasets from the USDA by searching up that organization name and seeing all the datasets that fall under them. As well as going to filter tab on the right and clicking organization and searching up "USDA" and click the corresponding one. 
+
+6. I attempted searching up "Seattle, United States, Washington" and the organizations they came up consisted of 674 results. With the first one being "Building energy Benchmarking data".
+
+7. It effects my results by the first one now being about meats specifically. As well as my second result being about composition still. I now know more clearly how specific you have to be with your search results. 
+
+8. 
+A). I get six different results for butter when I was only expecting one. And once you click on one, you get the statistics of the item. 
+B). You find categorized databased such as 'Latest downloads' and 'Historical downloads'. These files range from 400k-6.5M. And you can find information on the data types by downloading the data and opening it yourself or the more information page found on the bottom of the page. 
