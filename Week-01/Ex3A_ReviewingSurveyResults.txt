@@ -1,0 +1,26 @@
+1. What conclusion can you reach about the responses to this question? 
+	Most people in class will make sure to join the zoom meeting 5 minutes prior to when it begins. 
+
+2. Is the default summary or visualization helpful? How could it be improved? 
+	It is helpful, especially because the AI selected repeated words from most user drawing a conclusion to what most people commonly responded with. I believe it could be improved just 	by allowed user to download the results as a Word document as well. 
+
+3. For questions with an “Other” option, where can you find the actual text of those responses? Do you notice anything that might be tricky about analyzing these? 
+	You click "More details" in the top right hand corner of the diagram to view the written results for "Other". One reason I could find it difficult to analyze these results are if a 	user wrote a completely irrelevant response. 
+
+4. For questions calling for a written response, what challenges do you notice about finding trends or patterns in the answers provided? 
+	If some user wrote multiple words or provided a sentence vs users who only provided a one word response. 
+
+5. Now that you can see the responses, how might you recommend rephrasing this or question or the response options in a future survey?
+	I would provided more detailed instructions. Such as "Please do not write a one word response. Provide a sentence at minimum."
+
+6. Is there anything that surprised you about the survey responses? 
+	Yes, that a good chunk of the class has external mouses and keyboards. 
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to include in your morning routine, or any questions that you are also curious about? 
+	Most of these ideas I agree with myself and wrote in my response. The most important one being, making sure I am in the zoom class prior minimum of five minutes before hand.
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help in how you approach teaching this class? 
+	Possibly wanting to open up the Zoom class five minutes before hand. In order to clearly see who is there earlier vs directly on time. 
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to make this survey anonymous? Why or why not? (If you can see both pros and cons, you may include both.)
+	I do not see any negative response or unreasonable responses students gave. I believe everyone gave a good response to what they have added to their morning routine. 
