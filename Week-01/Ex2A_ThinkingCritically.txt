@@ -1,0 +1,26 @@
+1. 
+- Does a certain food being high on the search actually mean people prefer this after breakups? 
+- How did the author choose which foods to include?
+- Do certain seasons effect the results?
+
+2. https://trends.google.com/trends/explore
+
+3. 
+A). The highest point in the graph is (100) on Feb 28th - Mar 31st , 2025. 
+B). And the lowest point in the graph is (64) on Nov 30th - Dec 31st , 2024. 
+
+4. 
+A). The highest peak in burger is (100) from April 30th - May 31st, 2024. And the lowest is (71) from Nov 30 - Dec 31st, 2024.
+B). The milkshake line is now more condensed, and the highs a lows don't look as large now. 
+
+5. The scale was recalculated based on the comparison; since Google trends scale is from 0-100. 
+
+6. 
+A). I do not see a pattern between searching up hamburgers and breakups. 
+B). Breakups and milkshakes do seem to have a bit more of a similarity. 
+
+7. This articles conclusion should be taken with a grain of salt. Because Google Trends measures search interest, not peoples actuals interest on these foods for a specific reason. And that these results may be affected based on seasonal patterns, and interest. 
+
+8. 
+A). Alabama
+B). South Dakota
